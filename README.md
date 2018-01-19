@@ -71,6 +71,22 @@ What can be done to interrupt a synchronized method that is blocked
 
 Java performance, heap profiling, GC tuning, thread dumps
 
+How to Make an Object Immutable in Java? Why Should You Make an Object Immutable?
+
+Which Design Patterns have You Used in Your Java Project?
+
+Do you know about Open Closed Design Principle or Liskov Substitution Principle?
+
+Which Two Methods HashMap key Object Should Implement?
+
+Why Should an Object Used As the Key should be Immutable? 
+
+How does ConcurrentHashMap achieves its Scalability? 
+
+How do you share an object between threads? or How to pass an object from one thread to another? 
+
+
+
 Questions on Spring/Struts frameworks with any ORM (JPA or hibernate)
 
 JSP & Servlets
